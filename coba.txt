@@ -1,3 +1,4 @@
 bikin repository di github
 mengedit file
 belajar GitKraken
+mudah bukan ?
