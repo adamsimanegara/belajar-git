@@ -1,2 +1,2 @@
 bikin repository di github
-mengedit filee
+mengedit file
